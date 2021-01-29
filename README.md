@@ -1,6 +1,7 @@
-# node-express-mysql
+# Project of IKBK
 
-Practice Build Node.js Rest APIs with Express & MySQL
+Here we build the app for IKBK (Ikatan Keluarga Besar Kendal)
 <br><br><br>
+
 regards,<br>
-NAJIB
+Najib - backend
